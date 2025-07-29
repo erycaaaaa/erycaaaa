@@ -42,11 +42,7 @@
 </p>
 
 <table align="center">
-  <tr align="center">
-    <td><img src="./assets/download.gif" alt="My Skills Gif" width="120" /></td>
-    <td><img src="./assets/download.gif" alt="My Skills Gif" width="120" /></td>
-    <td><img src="./assets/download.gif" alt="My Skills Gif" width="120" /></td>
-  </tr>
+
   <tr align="center">
     <th>🎨 UI/UX Design</th>
     <th>💻 Frontend</th>
