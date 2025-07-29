@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Hello World, I'm Jasper!](assets/header.gif)](https://github.com/jdg2896)
+[![Hello World, I'm eryca!](assets/header.gif)](https://github.com/jdg2896)
 Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on [Pinterest](https://www.pinterest.com/).
 </div>
 
