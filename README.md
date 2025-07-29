@@ -21,6 +21,8 @@
 
 > 📈 I love working on projects that turn into real apps and even publish journals!
 
+ <img src="./assets/download.gif" alt="My Skills Gif" width="200" /><br><br>
+
 
 <h1 align="center">💻 My Skills & 📊 GitHub Stats</h1>
 
