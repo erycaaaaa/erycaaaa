@@ -1,7 +1,7 @@
 <div align="center">
 
-[![Hello World, I'm eryca!](assets/header.gif)](https://github.com/jdg2896)
-Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on [Pinterest](https://www.pinterest.com/).
+[![Hello World, I'm eryca!](assets/header.gif)](https://github.com/erycaaaaa)
+Background GIF by [Aliciel](./assets/DYYM%20Family%20-%20Freelance%20artist%20in%20Chengdu,%20China.gif).
 </div>
 
 # erycaaaa
