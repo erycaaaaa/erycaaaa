@@ -12,11 +12,9 @@
 <h1 align="center">Hi there, I'm Eryca! 👋</h1>
 
 <p align="center">
-  <em>Welcome to my GitHub profile. Here's what I've been up to:</em>
+  <em>Welcome to my GitHub profile. Here's what I've been up to:</em> <br>
+  <em>UI/UX enthusiast • Frontend Dev • Python &amp; Sentiment Analysis • Passionate about human-centered tech &amp; design 🎨💻</em>
 </p>
-
-# erycaaaa
-UI/UX enthusiast • Frontend Dev • Python &amp; Sentiment Analysis • Passionate about human-centered tech &amp; design 🎨💻
 
 ### Hi, I'm Eryca 👋
 > 🎓 I'm a Computer Science student at Universitas Tarumanagara 2023
