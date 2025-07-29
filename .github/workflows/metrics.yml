@@ -41,7 +41,7 @@ jobs:
           plugin_activity_limit: 5
           plugin_activity_days: 14
           plugin_activity_filter: all
-
+          
           plugin_stack: yes
           plugin_stack_sections: featured, pinned, random
           plugin_stack_limit: 2
