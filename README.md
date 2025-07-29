@@ -56,28 +56,27 @@ Since GitHub will re-upload the cards and serve them from their [CDN](https://do
 - 🏃 I like running and keeping active
 
 ---
-
 <!-- Baris pertama grafik -->
 <p align="center">
-  <img alt="Metrics" width="400px" src="https://raw.githubusercontent.com/erycaaaaa/erycaaaa/main/metrics.svg" />
-  <img alt="RSS" width="400px" src="https://raw.githubusercontent.com/erycaaaaa/erycaaaa/main/rss.svg" />
+  <img alt="Metrics" src="https://raw.githubusercontent.com/erycaaaaa/erycaaaa/main/metrics.svg" width="45%"/>
+  <img alt="RSS" src="https://raw.githubusercontent.com/erycaaaaa/erycaaaa/main/rss.svg" width="45%"/>
 </p>
 
 <!-- Baris kedua grafik -->
 <p align="center">
-  <img alt="Calendar" width="400px" src="https://raw.githubusercontent.com/erycaaaaa/erycaaaa/main/calendar.svg" />
-  <img alt="Habits" width="400px" src="https://raw.githubusercontent.com/erycaaaaa/erycaaaa/main/habits.svg" />
+  <img alt="Calendar" src="https://raw.githubusercontent.com/erycaaaaa/erycaaaa/main/calendar.svg" width="45%"/>
+  <img alt="Habits" src="https://raw.githubusercontent.com/erycaaaaa/erycaaaa/main/habits.svg" width="45%"/>
 </p>
 
 <!-- Baris ketiga grafik -->
 <p align="center">
-  <img alt="Languages" width="400px" src="https://raw.githubusercontent.com/erycaaaaa/erycaaaa/main/languages.svg" />
-  <img alt="Activity" width="400px" src="https://raw.githubusercontent.com/erycaaaaa/erycaaaa/main/activity.svg" />
+  <img alt="Languages" src="https://raw.githubusercontent.com/erycaaaaa/erycaaaa/main/languages.svg" width="45%"/>
+  <img alt="Activity" src="https://raw.githubusercontent.com/erycaaaaa/erycaaaa/main/activity.svg" width="45%"/>
 </p>
 
 <!-- Baris keempat grafik -->
 <p align="center">
-  <img alt="Stack" width="400px" src="https://raw.githubusercontent.com/erycaaaaa/erycaaaa/main/stack.svg" />
+  <img alt="Stack" src="https://raw.githubusercontent.com/erycaaaaa/erycaaaa/main/stack.svg" width="45%"/>
 </p>
 
 ---
