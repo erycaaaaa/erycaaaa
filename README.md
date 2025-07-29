@@ -33,8 +33,10 @@ UI/UX enthusiast • Frontend Dev • Python &amp; Sentiment Analysis • Passio
 
 #### Responsive Card Theme
 
-![Eryca's GitHub stats - Dark](https://github-readme-stats.vercel.app/api?username=erycaaaaa&show_icons=true&theme=dark#gh-dark-mode-only)
-![Eryca's GitHub stats - Light](https://github-readme-stats.vercel.app/api?username=erycaaaaa&show_icons=true&theme=default#gh-light-mode-only)
+<p align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=erycaaaaa&show_icons=true&theme=dark#gh-dark-mode-only" alt="Eryca's GitHub stats - Dark" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=erycaaaaa&show_icons=true&theme=default#gh-light-mode-only" alt="Eryca's GitHub stats - Light" />
+</p>
 
 Since GitHub will re-upload the cards and serve them from their [CDN](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/about-anonymized-urls), we can not infer the browser/GitHub theme on the server side. There are, however, four methods you can use to create dynamics themes on the client side.
 
