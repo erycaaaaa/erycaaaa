@@ -9,6 +9,12 @@
   </a>
 </div>
 
+<h1 align="center">Hi there, I'm Eryca! 👋</h1>
+
+<p align="center">
+  <em>Welcome to my GitHub profile. Here's what I've been up to:</em>
+</p>
+
 # erycaaaa
 UI/UX enthusiast • Frontend Dev • Python &amp; Sentiment Analysis • Passionate about human-centered tech &amp; design 🎨💻
 
@@ -46,12 +52,6 @@ Since GitHub will re-upload the cards and serve them from their [CDN](https://do
 - 🎨 I love painting and do commission work on Instagram: [@erycadhm](https://instagram.com/erycadhm)
 - 📚 I enjoy reading and watching K-dramas
 - 🏃 I like running and keeping active
-
-<h1 align="center">Hi there, I'm Eryca! 👋</h1>
-
-<p align="center">
-  <em>Welcome to my GitHub profile. Here's what I've been up to:</em>
-</p>
 
 ---
 
