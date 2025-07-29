@@ -1,5 +1,11 @@
- <a href="https://github.com/erycaaaaa">
-    <img src="./assets/DYYM Family - Freelance artist in Chengdu, China.gif" alt="Hello World, I'm eryca!" />
+<div align="center">
+  <a href="https://github.com/erycaaaaa">
+    <img 
+      src="./assets/DYYM Family - Freelance artist in Chengdu, China.gif" 
+      alt="Hello World, I'm eryca!" 
+      width="800" 
+      height="300"
+    />
   </a>
 </div>
 
