@@ -45,12 +45,42 @@ Since GitHub will re-upload the cards and serve them from their [CDN](https://do
 - 📚 I enjoy reading and watching K-dramas
 - 🏃 I like running and keeping active
 
-<img alt="🦁" align="left" width="400px" src="https://raw.githubusercontent.com/erycaaaaa/erycaaaa/main/metrics.svg">
-<img alt="🦁" align="right" width="400px" src="https://raw.githubusercontent.com/erycaaaaa/erycaaaa/main/rss.svg">
-<img alt="🦁" align="left" width="400px" src="https://raw.githubusercontent.com/erycaaaaa/erycaaaa/main/calendar.svg">
-<img alt="🦁" align="right" width="400px" src="https://raw.githubusercontent.com/erycaaaaa/erycaaaa/main/habits.svg">
-<img alt="🦁" align="left" width="400px" src="https://raw.githubusercontent.com/erycaaaaa/erycaaaa/main/languages.svg">
-<img alt="🦁" align="left" width="400px" src="https://raw.githubusercontent.com/erycaaaaa/erycaaaa/main/activity.svg">
-<img alt="🦁" align="left" width="400px" src="https://raw.githubusercontent.com/erycaaaaa/erycaaaa/main/stack.svg">
+<h1 align="center">Hi there, I'm Eryca! 👋</h1>
+
+<p align="center">
+  <em>Welcome to my GitHub profile. Here's what I've been up to:</em>
+</p>
+
+---
+
+<!-- Baris pertama grafik -->
+<p align="center">
+  <img alt="Metrics" width="400px" src="https://raw.githubusercontent.com/erycaaaaa/erycaaaa/main/metrics.svg" />
+  <img alt="RSS" width="400px" src="https://raw.githubusercontent.com/erycaaaaa/erycaaaa/main/rss.svg" />
+</p>
+
+<!-- Baris kedua grafik -->
+<p align="center">
+  <img alt="Calendar" width="400px" src="https://raw.githubusercontent.com/erycaaaaa/erycaaaa/main/calendar.svg" />
+  <img alt="Habits" width="400px" src="https://raw.githubusercontent.com/erycaaaaa/erycaaaa/main/habits.svg" />
+</p>
+
+<!-- Baris ketiga grafik -->
+<p align="center">
+  <img alt="Languages" width="400px" src="https://raw.githubusercontent.com/erycaaaaa/erycaaaa/main/languages.svg" />
+  <img alt="Activity" width="400px" src="https://raw.githubusercontent.com/erycaaaaa/erycaaaa/main/activity.svg" />
+</p>
+
+<!-- Baris keempat grafik -->
+<p align="center">
+  <img alt="Stack" width="400px" src="https://raw.githubusercontent.com/erycaaaaa/erycaaaa/main/stack.svg" />
+</p>
+
+---
+
+<p align="center">
+  ✨ Keep growing, keep building ✨
+</p>
+
 
 📫 Feel free to connect and explore my repos!
