@@ -18,9 +18,9 @@ UI/UX enthusiast • Frontend Dev • Python &amp; Sentiment Analysis • Passio
 
 ## ✨ Tech Stack
 
-> 🎨 UI/UX Design: Figma
-> 💻 Frontend: HTML, CSS
-> 📊 Data Analysis: Python, Google Colab
+- 🎨 UI/UX Design: Figma
+- 💻 Frontend: HTML, CSS
+- 📊 Data Analysis: Python, Google Colab
 
 #### Responsive Card Theme
 
@@ -32,8 +32,8 @@ Since GitHub will re-upload the cards and serve them from their [CDN](https://do
 
 ### 💬 Fun Facts About Me
 
-> 🎨 I love painting and do commission work on Instagram: [@erycadhm](https://instagram.com/erycadhm)
-> 📚 I enjoy reading and watching K-dramas
-> 🏃 I like running and keeping active
+- 🎨 I love painting and do commission work on Instagram: [@erycadhm](https://instagram.com/erycadhm)
+- 📚 I enjoy reading and watching K-dramas
+- 🏃 I like running and keeping active
 
 📫 Feel free to connect and explore my repos!
