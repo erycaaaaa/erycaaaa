@@ -1,16 +1,11 @@
 # erycaaaa
 UI/UX enthusiast • Frontend Dev • Python &amp; Sentiment Analysis • Passionate about human-centered tech &amp; design 🎨💻
 
-# Hi, I'm Eryca 👋
-
-🎓 I'm a Computer Science student at Universitas Tarumanagara  
-🎨 I’m passionate about UI/UX design, front-end development, and sentiment analysis  
-🛠️ I use tools like Figma, HTML/CSS, and Python (Google Colab)  
-📈 I love working on projects that turn into real apps and even publish journals!
-
-### Light
-
-> You need to add **?theme=light** parameter.
+### Hi, I'm Eryca 👋
+> 🎓 I'm a Computer Science student at Universitas Tarumanagara  
+> 🎨 I’m passionate about UI/UX design, front-end development, and sentiment analysis  
+> 🛠️ I use tools like Figma, HTML/CSS, and Python (Google Colab)  
+> 📈 I love working on projects that turn into real apps and even publish journals!
 
 ## 💻 Keahlian Saya
 
