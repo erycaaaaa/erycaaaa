@@ -4,36 +4,55 @@
   </a>
 </div>
 
-# erycaaaa
+<h1 align="center">Hi there, I'm Eryca! 👋</h1>
 
-UI/UX enthusiast • Frontend Dev • Python &amp; Sentiment Analysis • Passionate about human-centered tech &amp; design 🎨💻
-
-### Hi, I'm Eryca 👋
-
-> 🎓 I'm a Computer Science student at Universitas Tarumanagara 2023
-> 🎨 I’m passionate about UI/UX design, front-end development, and sentiment analysis  
-> 🛠️ I use tools like Figma, HTML/CSS, and Python (Google Colab)  
-> 📈 I love working on projects that turn into real apps and even publish journals!
-
-<h1 align="center">💻 My Skills</h1>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,ai,html,css,js,python,dart,flutter" />
-  </a>
+  <em>Welcome to my GitHub profile. Here's what I've been up to</em><br>
+   <strong>UI/UX enthusiast • Frontend Dev • Python &amp; Sentiment Analysis • Passionate about human-centered tech &amp; design 🎨💻</strong>
 </p>
 
-## ✨ Tech Stack
+---
 
-- 🎨 UI/UX Design: Figma
-- 💻 Frontend: HTML, CSS
-- 📊 Data Analysis: Python, Google Colab
+> 🎓 I'm a Computer Science student at Universitas Tarumanagara 2023  
 
-#### Responsive Card Theme
+> 🎨 I’m passionate about UI/UX design, front-end development, and sentiment analysis  
 
-![Eryca's GitHub stats - Dark](https://github-readme-stats.vercel.app/api?username=erycaaaaa&show_icons=true&theme=dark#gh-dark-mode-only)
-![Eryca's GitHub stats - Light](https://github-readme-stats.vercel.app/api?username=erycaaaaa&show_icons=true&theme=default#gh-light-mode-only)
+> 🛠️ I use tools like Figma, HTML/CSS, and Python (Google Colab)  
 
-Since GitHub will re-upload the cards and serve them from their [CDN](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/about-anonymized-urls), we can not infer the browser/GitHub theme on the server side. There are, however, four methods you can use to create dynamics themes on the client side.
+> 📈 I love working on projects that turn into real apps and even publish journals!
+
+
+<h1 align="center">💻 My Skills & 📊 GitHub Stats</h1>
+
+<p align="center">
+  <!-- Kolom 1: Ikon Skill -->
+  <span style="display:inline-block; vertical-align:top; text-align:center; width:30%;">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=figma,ai,html,css,js,python,dart,flutter" />
+    </a>
+  </span>
+
+  <!-- Kolom 2: Tabel Skill -->
+  <span style="display:inline-block; vertical-align:top; text-align:center; width:30%;">
+    <table align="center">
+      <tr>
+        <th>🎨 UI/UX Design</th>
+        <th>💻 Frontend</th>
+        <th>📊 Data Analysis</th>
+      </tr>
+      <tr align="center">
+        <td>Figma</td>
+        <td>HTML, CSS</td>
+        <td>Python, Google Colab</td>
+      </tr>
+    </table>
+  </span>
+  
+<p align="center">
+  <img width="23%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erycaaaaa&layout=compact&theme=dark#gh-dark-mode-only" alt="Top Langs" />
+  <img width="30%" src="https://github-readme-stats.vercel.app/api?username=erycaaaaa&show_icons=true&theme=default" alt="Eryca's GitHub stats" />
+</p>
+
 
 ### 💬 Fun Facts About Me
 
