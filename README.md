@@ -2,6 +2,7 @@
 
 [![Hello World, I'm Jasper!](assets/header.gif)](https://github.com/jdg2896)
 Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on [Pinterest](https://www.pinterest.com/).
+</div>
 
 # erycaaaa
 UI/UX enthusiast • Frontend Dev • Python &amp; Sentiment Analysis • Passionate about human-centered tech &amp; design 🎨💻
