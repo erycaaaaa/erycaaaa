@@ -7,9 +7,7 @@ UI/UX enthusiast • Frontend Dev • Python &amp; Sentiment Analysis • Passio
 > 🛠️ I use tools like Figma, HTML/CSS, and Python (Google Colab)  
 > 📈 I love working on projects that turn into real apps and even publish journals!
 
-
-### 💻 Keahlian Saya
-
+<p align="center">💻 My Skills</p>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=figma,ai,html,css,js,python,dart,flutter" />
