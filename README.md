@@ -12,7 +12,7 @@ UI/UX enthusiast • Frontend Dev • Python &amp; Sentiment Analysis • Passio
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,canva,html,css,js,python,dart,flutter,ae,ai" />
+    <img src="https://skillicons.dev/icons?i=figma,ai,html,css,js,python,dart,flutter" />
   </a>
 </p>
 
