@@ -20,6 +20,14 @@ UI/UX enthusiast • Frontend Dev • Python &amp; Sentiment Analysis • Passio
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erycadhm&layout=compact&theme=radical)
 [![trophy](https://github-profile-trophy.vercel.app/?username=erycadhm&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
 
+#### Responsive Card Theme
+
+![Eryca's GitHub stats - Dark](https://github-readme-stats.vercel.app/api?username=erycaaaaa&show_icons=true&theme=dark#gh-dark-mode-only)
+![Eryca's GitHub stats - Light](https://github-readme-stats.vercel.app/api?username=erycaaaaa&show_icons=true&theme=default#gh-light-mode-only)
+
+Since GitHub will re-upload the cards and serve them from their [CDN](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/about-anonymized-urls), we can not infer the browser/GitHub theme on the server side. There are, however, four methods you can use to create dynamics themes on the client side.
+
+
 ## 💬 Fun Facts About Me
 
 - 🎨 I love painting and do commission work on Instagram: [@erycadhm](https://instagram.com/erycadhm)
