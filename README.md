@@ -16,11 +16,15 @@
   <em>UI/UX enthusiast • Frontend Dev • Python &amp; Sentiment Analysis • Passionate about human-centered tech &amp; design 🎨💻</em>
 </p>
 
+---
+
 ### Hi, I'm Eryca 👋
 > 🎓 I'm a Computer Science student at Universitas Tarumanagara 2023
 > 🎨 I’m passionate about UI/UX design, front-end development, and sentiment analysis  
 > 🛠️ I use tools like Figma, HTML/CSS, and Python (Google Colab)  
 > 📈 I love working on projects that turn into real apps and even publish journals!
+
+---
 
 <h1 align="center">💻 My Skills</h1>
 <p align="center">
