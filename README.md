@@ -45,4 +45,12 @@ Since GitHub will re-upload the cards and serve them from their [CDN](https://do
 - 📚 I enjoy reading and watching K-dramas
 - 🏃 I like running and keeping active
 
+<img alt="🦁" align="left" width="400px" src="https://raw.githubusercontent.com/erycaaaaa/erycaaaa/main/metrics.svg">
+<img alt="🦁" align="right" width="400px" src="https://raw.githubusercontent.com/erycaaaaa/erycaaaa/main/rss.svg">
+<img alt="🦁" align="left" width="400px" src="https://raw.githubusercontent.com/erycaaaaa/erycaaaa/main/calendar.svg">
+<img alt="🦁" align="right" width="400px" src="https://raw.githubusercontent.com/erycaaaaa/erycaaaa/main/habits.svg">
+<img alt="🦁" align="left" width="400px" src="https://raw.githubusercontent.com/erycaaaaa/erycaaaa/main/languages.svg">
+<img alt="🦁" align="left" width="400px" src="https://raw.githubusercontent.com/erycaaaaa/erycaaaa/main/activity.svg">
+<img alt="🦁" align="left" width="400px" src="https://raw.githubusercontent.com/erycaaaaa/erycaaaa/main/stack.svg">
+
 📫 Feel free to connect and explore my repos!
