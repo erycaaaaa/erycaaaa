@@ -14,12 +14,6 @@ UI/UX enthusiast • Frontend Dev • Python &amp; Sentiment Analysis • Passio
 - 💻 Frontend: HTML, CSS
 - 📊 Data Analysis: Python, Google Colab
 
-## 🏆 My GitHub Stats
-
-![Eryca's GitHub Stats](https://github-readme-stats.vercel.app/api?username=erycadhm&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erycadhm&layout=compact&theme=radical)
-[![trophy](https://github-profile-trophy.vercel.app/?username=erycadhm&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
-
 #### Responsive Card Theme
 
 ![Eryca's GitHub stats - Dark](https://github-readme-stats.vercel.app/api?username=erycaaaaa&show_icons=true&theme=dark#gh-dark-mode-only)
