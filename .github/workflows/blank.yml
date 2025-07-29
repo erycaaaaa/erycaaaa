@@ -1,23 +1,55 @@
-name: CI
+name: 📊 Generate GitHub Metrics
 
 on:
-  push:
-    branches: [ "main" ]
-  pull_request:
-    branches: [ "main" ]
+  schedule: [{cron: "0 0 * * *"}] # Setiap hari jam 00:00 UTC
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
-      - uses: actions/checkout@v4
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
 
-      - name: Run a one-line script
-        run: echo Hello, world!
+          # Output file
+          filename: metrics.svg
 
-      - name: Run a multi-line script
-        run: |
-          echo Add other actions to build,
-          echo test, and deploy your project.
+          # Basic plugin
+          base: header, repositories
+
+          # Plugins yang diaktifkan
+          plugin_rss: yes
+          plugin_rss_source: https://dev.to/feed/yourusername  # Ganti dengan feed kamu
+          plugin_rss_limit: 5
+
+          plugin_calendar: yes
+          plugin_calendar_limit: 1
+
+          plugin_habits: yes
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+
+          plugin_languages: yes
+          plugin_languages_ignored: html, css
+          plugin_languages_details: percentage
+          plugin_languages_threshold: 0%
+          plugin_languages_limit: 8
+
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_activity_days: 14
+          plugin_activity_filter: all
+
+          plugin_stack: yes
+          plugin_stack_sections: featured, pinned, random
+          plugin_stack_limit: 2
+
+          # Tampilan
+          config_timezone: Asia/Jakarta
+          config_twemoji: yes
+          config_padding: 0, 10
+          config_gemoji: yes
+          config_display: large
+          config_output: svg
