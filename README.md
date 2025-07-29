@@ -7,7 +7,8 @@ UI/UX enthusiast • Frontend Dev • Python &amp; Sentiment Analysis • Passio
 > 🛠️ I use tools like Figma, HTML/CSS, and Python (Google Colab)  
 > 📈 I love working on projects that turn into real apps and even publish journals!
 
-## 💻 Keahlian Saya
+
+### 💻 Keahlian Saya
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -17,9 +18,9 @@ UI/UX enthusiast • Frontend Dev • Python &amp; Sentiment Analysis • Passio
 
 ## ✨ Tech Stack
 
-- 🎨 UI/UX Design: Figma
-- 💻 Frontend: HTML, CSS
-- 📊 Data Analysis: Python, Google Colab
+> 🎨 UI/UX Design: Figma
+> 💻 Frontend: HTML, CSS
+> 📊 Data Analysis: Python, Google Colab
 
 #### Responsive Card Theme
 
@@ -29,10 +30,10 @@ UI/UX enthusiast • Frontend Dev • Python &amp; Sentiment Analysis • Passio
 Since GitHub will re-upload the cards and serve them from their [CDN](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/about-anonymized-urls), we can not infer the browser/GitHub theme on the server side. There are, however, four methods you can use to create dynamics themes on the client side.
 
 
-## 💬 Fun Facts About Me
+### 💬 Fun Facts About Me
 
-- 🎨 I love painting and do commission work on Instagram: [@erycadhm](https://instagram.com/erycadhm)
-- 📚 I enjoy reading and watching K-dramas
-- 🏃 I like running and keeping active
+> 🎨 I love painting and do commission work on Instagram: [@erycadhm](https://instagram.com/erycadhm)
+> 📚 I enjoy reading and watching K-dramas
+> 🏃 I like running and keeping active
 
 📫 Feel free to connect and explore my repos!
