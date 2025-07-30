@@ -11,12 +11,12 @@
       <img src="./assets/download.gif" alt="My Skills Gif" width="120" />
     </td>
     <td>
-      <ul>
-        <li>🎓 I'm a Computer Science student at Universitas Tarumanagara 2023</li>
-        <li>🎨 Passionate about UI/UX design, front-end dev, and sentiment analysis</li>
-        <li>🛠️ Tools: Figma, HTML/CSS, Python (Google Colab)</li>
-        <li>📈 Love turning projects into real apps & publishing journals</li>
-      </ul>
+   <ul>
+  <li><span style="font-size:13px">🎓 I'm a Computer Science student at Universitas Tarumanagara 2023</span></li>
+  <li><span style="font-size:13px">🎨 Passionate about UI/UX design, front-end dev, and sentiment analysis</span></li>
+  <li><span style="font-size:13px">🛠️ Tools: Figma, HTML/CSS, Python (Google Colab)</span></li>
+  <li><span style="font-size:13px">📈 Love turning projects into real apps & publishing journals</span></li>
+</ul>
     </td>
     <td> <a href="https://skillicons.dev">
      <a href="https://skillicons.dev">
