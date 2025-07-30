@@ -1,20 +1,10 @@
 <h1 align="center">Hi there, I'm Eryca! 👋</h1>
-
 <img src="./assets/Frame 4.svg" alt="banner that says Eryca Dhamma Shanty - UI UX Desiigner and cartoon illustration of Monica">
-
-<div align="center">
-  <a href="https://github.com/erycaaaaa">
-    <img src="./assets/DYYM Family - Freelance artist in Chengdu, China.gif" alt="Hello World, I'm eryca!" />
-  </a>
-</div>
-
 <p align="center">
   <em>Welcome to my GitHub profile. Here's what I've been up to</em><br>
   <strong>UI/UX enthusiast • Frontend Dev • Python &amp; Sentiment Analysis • Passionate about human-centered tech &amp; design 🎨💻</strong>
 </p>
-
 ---
-
 <table align="center">
   <tr>
     <td>
