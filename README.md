@@ -1,4 +1,4 @@
-# Hi, I'm Erycaa 👋🏾 👩🏾‍💻
+<h1 align="center">Hi there, I'm Eryca! 👋</h1>
 
 <img src="" alt="banner that says Eryca Dhamma Shanty - UI UX Desiigner and cartoon illustration of Monica">
 
@@ -7,8 +7,6 @@
     <img src="./assets/DYYM Family - Freelance artist in Chengdu, China.gif" alt="Hello World, I'm eryca!" />
   </a>
 </div>
-
-<h1 align="center">Hi there, I'm Eryca! 👋</h1>
 
 <p align="center">
   <em>Welcome to my GitHub profile. Here's what I've been up to</em><br>
