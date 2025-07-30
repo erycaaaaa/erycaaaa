@@ -1,3 +1,7 @@
+# Hi, I'm Erycaa 👋🏾 👩🏾‍💻
+
+<img src="" alt="banner that says Eryca Dhamma Shanty - UI UX Desiigner and cartoon illustration of Monica">
+
 <div align="center">
   <a href="https://github.com/erycaaaaa">
     <img src="./assets/DYYM Family - Freelance artist in Chengdu, China.gif" alt="Hello World, I'm eryca!" />
@@ -55,11 +59,12 @@
   </tr>
 </table>
 
-
 ### 💬 Fun Facts About Me
 
-- 🎨 I love painting and do commission work on Instagram: [@erycadhm](https://instagram.com/erycadhm)
-- 📚 I enjoy reading and watching K-dramas
-- 🏃 I like running and keeping active
+- 🎨 I love painting and do commission work on Instagram: [@erycadhm](https://instagram.com/erycadhm) ███████████████████████▒░   00.00 %
+- 📚 I enjoy reading and watching K-dramas █░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+- 🏃 I like running and keeping active  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 
 📫 Feel free to connect and explore my repos!
+
+
