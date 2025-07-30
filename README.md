@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Eryca! 👋</h1>
 
-<img src="" alt="banner that says Eryca Dhamma Shanty - UI UX Desiigner and cartoon illustration of Monica">
+<img src="./assets/Frame 4.svg" alt="banner that says Eryca Dhamma Shanty - UI UX Desiigner and cartoon illustration of Monica">
 
 <div align="center">
   <a href="https://github.com/erycaaaaa">
