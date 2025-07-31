@@ -1,10 +1,10 @@
-<h1 align="center">Hi there, I'm Eryca! 👋</h1>
+<h1 align="center">𝐇𝐢 𝐭𝐡𝐞𝐫𝐞, 𝐢'𝐦 𝐄𝐫𝐲𝐜𝐚! 👋</h1>
 <img src="./assets/bannerV2.svg" alt="banner that says Eryca Dhamma Shanty - UI UX Desiigner and cartoon illustration of Monica">
 <p align="center">
   <em>Welcome to my GitHub profile. Here's what I've been up to</em><br>
   <strong>UI/UX enthusiast • Frontend Dev • Python &amp; Sentiment Analysis • Passionate about human-centered tech &amp; design 🎨💻</strong>
 </p>
----
+
 <table align="center">
   <tr>
     <td>
@@ -20,8 +20,9 @@
     </td>
     <td> <a href="https://skillicons.dev">
      <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=figma,ai,html,css" /> <br />
-      <img src="https://skillicons.dev/icons?i=js,python,dart,flutter" />
+      <img src="https://skillicons.dev/icons?i=figma,ai,html" /> <br />
+      <img src="https://skillicons.dev/icons?i=python,dart,flutter" /> <br />
+      <img src="https://skillicons.dev/icons?i=css,js" /> <br />
     </a>
   </tr>
 </table>
