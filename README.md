@@ -27,11 +27,10 @@
   </tr>
 </table>
 
-
 ## Computer Science Basics
 
 Courses | School | Duration | Effort | Frequency 
-:-- | :--: | :--: | :--: | :--: | :--:
+:-- | :--: | :--: | :--: | :--: 
 [Intro to Computer Science](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x) | Harvard | 10 weeks | 10-20 hours/week | self-paced 
 
 
